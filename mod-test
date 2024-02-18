@@ -1,4 +1,4 @@
 --token=j4M~haHR
-local ms = require(game.ReplicatedStorage.Test-script)
+local ms = require(game.ReplicatedStorage['Test-script'])
 
 ms.test("chlen")
