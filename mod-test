@@ -1,4 +1,4 @@
 --token=j4M~haHR
---line 1
---line 2 
-print(1)
+local ms = require(game.ReplicatedStorage.Test-script)
+
+ms.test("chlen")
